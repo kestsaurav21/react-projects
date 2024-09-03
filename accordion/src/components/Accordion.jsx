@@ -24,7 +24,7 @@ const Accordion = () => {
   console.log(select, multiSelect);
 
   return (
-    <div className="bg-gray-400 w-[80%] h-[900px] m-20 rounded-xl p-4 flex-col ">
+    <div className="bg-gray-400 w-[80%] h-[80vh] m-20 rounded-xl p-4 flex-col ">
       <h2 className="text-black font-extrabold text-4xl text-center m-4">
         Accordion
       </h2>

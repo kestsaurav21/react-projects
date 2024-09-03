@@ -6,9 +6,9 @@ import Accordion from './components/Accordion'
 function App() {
 
   return (
-    <>
+    <div className='flex justify-center'>
       <Accordion/>
-    </>
+    </div>
   )
 }
 
